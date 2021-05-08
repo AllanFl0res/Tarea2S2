@@ -48,7 +48,7 @@ int main(){
 			}
 			else 
 			{
-				cout<<"\nSu equipo "<<nombre<<" Ha perdido el torneo, suerte a la proxima ;) ";
+				cout<<"\nSu equipo "<<nombre<<" ha perdido el torneo, suerte a la proxima ;) ";
 			}
 				
 	
